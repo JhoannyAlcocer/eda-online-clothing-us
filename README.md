@@ -54,12 +54,12 @@ analyzing patterns by demographics, product preferences, and promotions.
 - Monitor seasonal trends; promotions can be tested cautiously
 - Evaluate subscription programs for engagement, not spending impact
 - Continue offering discounts and promo codes strategically
-- 
+
 ## Limitations
 Some variables, such as discounts, promo codes, and subscription status, show limited impact on purchase amount. 
 This suggests that other factors not captured in the dataset may play a stronger role in driving customer spending.
 
 ## Author
-**Jhoanny Alcocer** – Data Analyst | Portfolio-ready EDA  
+**Jhoanny Alcocer** – Data Analyst 
 - LinkedIn: https://www.linkedin.com/in/jhoannyalcocer/
 - GitHub: https://github.com/JhoannyAlcocer
