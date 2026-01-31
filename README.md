@@ -62,4 +62,4 @@ This suggests that other factors not captured in the dataset may play a stronger
 ## Author
 **Jhoanny Alcocer** – Data Analyst | Portfolio-ready EDA  
 - LinkedIn: https://www.linkedin.com/in/jhoannyalcocer/
-- GitHub: [github.com/tu_usuario](https://github.com/tu_usuario)
+- GitHub: https://github.com/JhoannyAlcocer
